@@ -1,0 +1,37 @@
+_repo: By-ways-in-Book-land--Short-Essays-on-Literary-Subjects_31034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, W.H.
+    - Adams, William Henry Davenport
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+description: ''
+gutenberg_issued: '2010-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: Paper-knife pleasures -- Ruskin as poet -- Elections in literature
+  -- Familiar verse -- Shakespeare's England -- Heredity in song -- Stings for the
+  stingy -- Dialogues of the dead -- Sermons in flowers -- 'Don Quixote' in England
+  -- Bedside books -- Their much speaking -- Peers and poetry -- The praise of Thames
+  -- English epigraphs -- The 'season' in song -- The 'recess' in rhyme -- Jaques
+  in love -- Mocking at matrimony -- Parson poets -- The outsides of books -- The
+  not impossible she -- Nonsense verses -- Single-speech Hamiltons -- Dramatic nomenclature
+  -- Puns and patronymics -- 'Yours truly' -- Postscripts.
+title: 'By-ways in Book-land: Short Essays on Literary Subjects'
+url: http://www.gutenberg.org/ebooks/31034
